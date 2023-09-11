@@ -1,2 +1,5 @@
 Here is my story.
+...
+Here is the end of my story.
+
 by Lisa Balbach
